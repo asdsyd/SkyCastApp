@@ -9,9 +9,7 @@
     "build": "vue-cli-service build --openssl-legacy-provider",
     "lint": "vue-cli-service lint"
   },
-  "engines": {
-    "node": ">=16"
-  },
+ "engines": { "node": "18.x" },
   "dependencies": {
     "axios": "^0.19.2",
     "core-js": "^3.6.4",
