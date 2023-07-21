@@ -10,7 +10,7 @@
     "lint": "vue-cli-service lint"
   },
   "engines": {
-    "node": "<=16"
+    "node": ">=16"
   },
   "dependencies": {
     "axios": "^0.19.2",
